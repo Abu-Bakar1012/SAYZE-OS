@@ -1,0 +1,13 @@
+fastapi
+httpx
+uvicorn[standard]
+openai
+tavily-python
+qdrant-client
+requests
+sqlalchemy
+pytest
+pytest-asyncio
+pytest-cov
+pydantic-settings
+python-dotenv

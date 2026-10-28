@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/.env
+backend/*.db
+backend/*.db-*
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local tooling
+.pytest_cache/
+.vscode/
