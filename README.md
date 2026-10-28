@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SAYZE OS
 
 A minimal full-stack starter for a zero-trust personal AI assistant. The backend
@@ -120,3 +121,7 @@ including Nebius, Tavily, Qdrant, SQLite, and the API bearer token. Keep actual
 credentials in the untracked `.env` file and rotate any token that is exposed.
 Tavily and Qdrant client dependencies are included for subsequent retrieval
 features; the initial chat route does not yet use those services.
+=======
+# SAYZE-OS
+SAYZE OS solves cloud AI privacy by performing local PII sanitization via NVIDIA NemoClaw before routing payloads to state-of-the-art open-weights models on Nebius AI Cloud. It delivers enterprise-grade reasoning and Tavily-grounded web search while ensuring your sensitive personal data never leaves your device.
+>>>>>>> ff1d527a7f6a3429ca618ff1cfe6f8d1c20970b2
