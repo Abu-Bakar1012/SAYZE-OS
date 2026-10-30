@@ -11,3 +11,4 @@ pytest-asyncio
 pytest-cov
 pydantic-settings
 python-dotenv
+gradio==5.50.0

@@ -5,6 +5,7 @@ services:
       - ./backend/.env
     environment:
       DATABASE_URL: sqlite:////app/data/sayze.db
+      PORT: 8000
       QDRANT_HOST: qdrant
       FRONTEND_ORIGIN: http://localhost:5173
     ports:
